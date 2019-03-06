@@ -479,7 +479,7 @@
 						<li class="fa-hover" data-toggle="tooltip" data-placement="bottom" title="Click To Copy Code"><a href="javascript:;"><i class="icon-copy ion-ios-game-controller-b"></a></i></li>
 						<li class="fa-hover" data-toggle="tooltip" data-placement="bottom" title="Click To Copy Code"><a href="javascript:;"><i class="icon-copy ion-ios-game-controller-b-outline"></i></a></li>
 						<li class="fa-hover" data-toggle="tooltip" data-placement="bottom" title="Click To Copy Code"><a href="javascript:;"><i class="icon-copy ion-ios-americanfootball"></a></i></li>
-						<li class="fa-hover" data-toggle="tooltip" data-placement="bottom" title="Click To Copy Code"><a href="javascript:;"><i class="icon-copy ion-ios-americanfootball-outline"</a>></i></li>
+						<li class="fa-hover" data-toggle="tooltip" data-placement="bottom" title="Click To Copy Code"><a href="javascript:;"><i class="icon-copy ion-ios-americanfootball-outline"></a></i></li>
 						<li class="fa-hover" data-toggle="tooltip" data-placement="bottom" title="Click To Copy Code"><a href="javascript:;"><i class="icon-copy ion-ios-baseball"></a></i></li>
 						<li class="fa-hover" data-toggle="tooltip" data-placement="bottom" title="Click To Copy Code"><a href="javascript:;"><i class="icon-copy ion-ios-baseball-outline"></a></i></li>
 						<li class="fa-hover" data-toggle="tooltip" data-placement="bottom" title="Click To Copy Code"><a href="javascript:;"><i class="icon-copy ion-ios-basketball"></a></i></li>
